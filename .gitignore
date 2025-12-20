@@ -1,2 +1,4 @@
-plain_p*
-.idea
+*
+!.gitignore
+!*.ipynb
+plain*
